@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="profile-banner.svg" alt="María Báez — Data Science & Engineering | Backend Development" width="100%" /> 
+  <img src="profile-banner.svg" alt="María Báez — Data Science & Engineering | Backend Development" width="100%" />
 
   ### Hi, I'm María! 👋
 
@@ -29,6 +28,8 @@ I'm a **third-year Data Science & Engineering student** at the **University of L
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Backend & tools**
 
@@ -53,15 +54,13 @@ I'm a **third-year Data Science & Engineering student** at the **University of L
 
 ### 🌱 What I'm learning
 
-```text
-Backend development  •  Software architecture  •  Design patterns  •  Testing
-```
+- 🔧 Backend development
+- 🏗️ Software architecture and design patterns
+- 🧪 Testing and code quality
 
 ### 📊 GitHub activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabaezz&layout=compact&hide_border=true&theme=transparent" alt="Most used languages in public GitHub repositories" />
-</div>
+Explore my [repositories](https://github.com/mariabaezz?tab=repositories) and the contribution activity on my [GitHub profile](https://github.com/mariabaezz).
 
 <div align="center">
   <sub>Always learning, building, and improving — one commit at a time. ✨</sub>
