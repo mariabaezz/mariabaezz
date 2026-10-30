@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">María Báez — Backend Development</title>
+  <desc id="desc">Dark navy banner with violet and cyan accents and abstract code shapes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b1124"/>
+      <stop offset="1" stop-color="#171437"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#80e6e0"/>
+      <stop offset="1" stop-color="#ab8bff"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#8b9fc8" opacity=".2"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="22" fill="url(#dots)"/>
+  <circle cx="1068" cy="110" r="155" fill="#7160e8" opacity=".11"/>
+  <circle cx="963" cy="295" r="130" fill="#44d4d0" opacity=".08"/>
+  <rect x="66" y="64" width="163" height="34" rx="17" fill="#242a4c"/>
+  <circle cx="87" cy="81" r="5" fill="#7ce1d8"/>
+  <text x="102" y="86" fill="#b8d4ed" font-size="16" font-family="Arial, Helvetica, sans-serif">HELLO, WORLD!</text>
+  <text x="66" y="179" fill="#fff" font-size="68" font-weight="700" font-family="Arial, Helvetica, sans-serif">María Báez</text>
+  <rect x="67" y="199" width="400" height="5" rx="3" fill="url(#accent)"/>
+  <text x="67" y="248" fill="#d6d8f4" font-size="28" font-family="Arial, Helvetica, sans-serif">Data Science &amp; Engineering</text>
+  <text x="67" y="285" fill="#8ce4da" font-size="21" font-family="Arial, Helvetica, sans-serif">Backend • APIs • Databases</text>
+  <rect x="802" y="70" width="300" height="207" rx="19" fill="#141b37" stroke="#61668d" stroke-width="2"/>
+  <rect x="802" y="70" width="300" height="36" rx="19" fill="#252d4e"/>
+  <rect x="802" y="91" width="300" height="15" fill="#252d4e"/>
+  <circle cx="826" cy="89" r="5" fill="#fd7185"/>
+  <circle cx="845" cy="89" r="5" fill="#f5ca69"/>
+  <circle cx="864" cy="89" r="5" fill="#76e2c3"/>
+  <g font-family="Courier New, monospace" font-size="20">
+    <text x="829" y="146" fill="#b38bff">class <tspan fill="#8ce4da">Developer</tspan><tspan fill="#e7eaff">:</tspan></text>
+    <text x="845" y="183" fill="#dddff5">name = <tspan fill="#f8c68f">"María"</tspan></text>
+    <text x="845" y="219" fill="#dddff5">focus = <tspan fill="#f8c68f">"backend"</tspan></text>
+    <text x="845" y="255" fill="#8ce4da">build(ideas)</text>
+  </g>
+</svg>
