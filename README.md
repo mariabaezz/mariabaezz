@@ -1,54 +1,69 @@
-# Hi, I'm María Báez 👋
+[README.md](https://github.com/user-attachments/files/34181912/README.md)
+<div align="center">
+  <img src="assets/profile-banner.svg" alt="María Báez — Data Science & Engineering | Backend Development" width="100%" />
 
-I'm a third-year Data Science and Engineering student at the University of Las Palmas de Gran Canaria (ULPGC) with a strong interest in software development and backend technologies.
+  ### Hi, I'm María! 👋
 
-I enjoy designing and building maintainable applications, working with REST APIs, object-oriented programming and databases.
+  **Data Science & Engineering student at ULPGC · Backend development enthusiast**
 
-## 🎓 Education
+  <a href="https://github.com/mariabaezz"><img src="https://img.shields.io/badge/GitHub-mariabaezz-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mariabaezz&style=flat-square&color=6d5dfc" alt="Profile views" />
+</div>
 
-**B.Sc. in Data Science and Engineering**  
-University of Las Palmas de Gran Canaria (ULPGC)  
-Currently in the 3rd year
+---
 
-## 💻 Technical Skills
+### 👩‍💻 About me
 
-### Languages
-- Python
-- Java
-- SQL
+I'm a **third-year Data Science & Engineering student** at the **University of Las Palmas de Gran Canaria (ULPGC)**, especially interested in building clean, reliable backend applications.
 
-### Backend
-- REST APIs
-- Maven
-- Object-Oriented Programming (OOP)
+- 🔧 I enjoy working with **Java, Python, REST APIs, and relational databases**.
+- 🧩 I care about **readable code, modular design, and maintainability**.
+- 📚 Currently exploring **software architecture, design patterns, and testing**.
+- 🌊 Based in the **Canary Islands, Spain**.
 
-### Databases
-- Database design
-- Relational databases
-- SQL queries
-- Data modeling
-- JSON
+### 🛠️ Tech stack
 
-### Tools
-- Git
-- GitHub
+<div align="center">
 
-## 🚀 Featured Projects
+**Languages**
 
-- 🏖️ BeachPlanner — Team project developed in Java using Maven, modular architecture and external APIs.
-- 🗂️ Task Manager CLI
-- 🍽️ Restaurant Explorer
-- 🎬 Movie Finder
-- 🎥 Movie Recommender
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🌱 Currently Learning
+**Backend & tools**
 
-- Software architecture
-- Design patterns
-- Backend development
-- Testing
+![REST APIs](https://img.shields.io/badge/REST_APIs-00897B?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📫 Contact
+</div>
 
-- GitHub: github.com/mariabaezz
-- LinkedIn: Coming soon
+### 🚀 Featured projects
+
+| Project | What it's about | Focus |
+| :--- | :--- | :--- |
+| 🏖️ **BeachPlanner** | Team-built application integrating external APIs | Java · Maven · Modular architecture |
+| 🗂️ **Task Manager CLI** | Command-line task management application | Application logic · CLI |
+| 🍽️ **Restaurant Explorer** | Restaurant discovery project | Data handling · Application design |
+| 🎬 **Movie Finder** | Movie search and exploration | APIs · Data retrieval |
+| 🎥 **Movie Recommender** | Movie recommendation project | Data Science · Recommendations |
+
+> 📌 I'll be adding direct repository links and demos as these projects are published.
+
+### 🌱 What I'm learning
+
+```text
+Backend development  •  Software architecture  •  Design patterns  •  Testing
+```
+
+### 📊 GitHub activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabaezz&layout=compact&hide_border=true&theme=transparent" alt="Most used languages in public GitHub repositories" />
+</div>
+
+<div align="center">
+  <sub>Always learning, building, and improving — one commit at a time. ✨</sub>
+</div>
