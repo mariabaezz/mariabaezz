@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/34181912/README.md)
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="María Báez — Data Science & Engineering | Backend Development" width="100%" />
+  <img src="profile-banner.svg" alt="María Báez — Data Science & Engineering | Backend Development" width="100%" /> 
 
   ### Hi, I'm María! 👋
 
