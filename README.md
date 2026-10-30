@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/34181912/README.md)
 <div align="center">
   <img src="profile-banner.svg" alt="María Báez — Data Science & Engineering | Backend Development" width="100%" /> 
 
